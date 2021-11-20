@@ -12,3 +12,6 @@ See more detailed information at https://doc.babylonjs.com/divingDeeper/developW
 Open **index.html**.
 
 That's all! :)
+
+![image](https://user-images.githubusercontent.com/25833327/142742600-95489d52-b547-4433-91d4-d082e3a2c026.png)
+
