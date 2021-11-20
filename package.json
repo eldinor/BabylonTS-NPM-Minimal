@@ -1,0 +1,29 @@
+{
+  "name": "Babylon Typescript NPM Support Minimal",
+  "version": "0.0.1",
+  "description": "An example of how to setup a Babylon project written in Typescript and bundled using Webpack. Tutorial at https://doc.babylonjs.com/divingDeeper/developWithBjs/npmSupport#setting-up-the-project",
+  "main": "index.js",
+"scripts": {
+        "build": "webpack"
+    },
+  "repository": {
+    "type": "git",
+    "url": "bull"
+  },
+  "keywords": [
+    "IGIUK"
+  ],
+  "author": "Andrei Stepanov and Babylon.js Documentation :)",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.2",
+    "webpack": "^5.64.2",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "babylonjs": "^5.0.0-alpha.61",
+    "babylonjs-gui": "^5.0.0-alpha.61",
+    "babylonjs-loaders": "^5.0.0-alpha.61"
+  }
+}
