@@ -1,4 +1,4 @@
-# BabylonTS-NPM-Minimal
+# Babylon TypeScript and GUI NPM Minimal Setup
 Babylon Typescript NPM Support Minimal
 
 An example of how to setup a Babylon project with GUI written in Typescript and bundled using Webpack.
