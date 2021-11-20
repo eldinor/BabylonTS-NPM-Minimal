@@ -5,8 +5,10 @@ An example of how to setup a Babylon project written in Typescript and bundled u
 See more detailed information at https://doc.babylonjs.com/divingDeeper/developWithBjs/npmSupport#setting-up-the-project
 
 ### Usage
-npm install
-npm build
+```npm install```
 
-Open index.html. 
+```npm run build```
+
+Open **index.html**.
+
 That's all! :)
